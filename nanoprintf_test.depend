@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1562623114 source:/home/bruno/Workspace/nanoprintf_test/main.cpp
+	<stdio.h>
+	<nanoprintf.h>
+
+1562621831 /home/bruno/Workspace/nanoprintf/nanoprintf.h
+	<stdarg.h>
+	<stddef.h>
+	<stdint.h>
+	<inttypes.h>
+	"nanoprintf.h"
+	<math.h>
+
+1562623491 source:/home/bruno/Workspace/nanoprintf_test/nanoprintf_impl.cpp
+	<nanoprintf.h>
+

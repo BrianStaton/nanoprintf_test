@@ -1,0 +1,3 @@
+#define NANOPRINTF_IMPLEMENTATION
+#include "nanoprintf.h"
+#undef NANOPRINTF_IMPLEMENTATION
